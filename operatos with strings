@@ -1,0 +1,8 @@
+#operators with strings
+
+str1 = 'Hello'
+strl2 = 'world'
+
+print(str1 + " " + strl2 +" " + strl2)
+
+print(str1 * 3)
